@@ -1,3 +1,4 @@
+'use client';
 const { db } = require('@vercel/postgres');
 const {
   invoices,
