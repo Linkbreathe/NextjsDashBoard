@@ -53,6 +53,7 @@ export default async function InvoicesTable({
                 </div>
               </div>
             ))}
+            
           </div>
           <table className="hidden min-w-full text-gray-900 md:table">
             <thead className="rounded-lg text-left text-sm font-normal">
